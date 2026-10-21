@@ -1,3 +1,10 @@
+> **维护位置已迁移（2026-10-21）**
+>
+> 本仓库保留此前的文档及 Git、Issue、PR 历史。现行规范请使用 [chatgpt-vault／GPT 约束](https://github.com/montricwang/chatgpt-vault/tree/main/GPT%20约束)，今后在 [vault Issues](https://github.com/montricwang/chatgpt-vault/issues) 提问题，通过 vault PR 修改文档。
+> 原 Issue [#3](https://github.com/montricwang/gpt-finishing-school/issues/3) → [vault #54](https://github.com/montricwang/chatgpt-vault/issues/54)；原 Issue [#10](https://github.com/montricwang/gpt-finishing-school/issues/10) → [vault #55](https://github.com/montricwang/chatgpt-vault/issues/55)。
+>
+> 下文是迁移前的项目说明，仅供历史参考。
+
 # GPT Finishing School
 
 一套用于规范 ChatGPT 输出的个人提示词与行为规范。

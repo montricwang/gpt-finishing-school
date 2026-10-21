@@ -1,3 +1,5 @@
+> **本仓库停止维护（2026-10-21）**：现行规范、协作手册、Issue 和 PR 统一在 [chatgpt-vault／GPT 约束](https://github.com/montricwang/chatgpt-vault/tree/main/GPT%20约束) 管理。下列规则保留作历史参考。
+
 # Git 与 AI 协作规则
 
 后续所有 AI 生成代码、提交 Git 记录、创建 PR 或合并 PR 时，必须遵守以下规则，不需要用户逐次重申。
